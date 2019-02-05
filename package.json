@@ -1,0 +1,7 @@
+{
+  "name": "ziplist",
+  "version": "1.0.0",
+  "dependencies": {
+    "underscore": "latest"
+  }
+}
